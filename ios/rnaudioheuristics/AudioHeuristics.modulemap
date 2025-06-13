@@ -1,0 +1,4 @@
+module AudioHeuristics {
+    header "AudioHeuristics.h"
+    export *
+} 
